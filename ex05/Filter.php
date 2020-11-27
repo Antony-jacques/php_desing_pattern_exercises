@@ -8,9 +8,15 @@ interface Filter
 class BAndWFilter implements Filter
 {
 //  Your code here
+public function getFilter(){
+
+}
 }
 
 class SepiaFilter implements Filter
 {
 //  Your code here
+public function getFilter(){
+  
+}
 }

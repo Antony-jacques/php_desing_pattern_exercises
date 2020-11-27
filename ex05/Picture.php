@@ -10,7 +10,7 @@ interface Picture
 
 class Portrait implements Picture
 {
-//  Your code here
+//  Your code here 
 }
 
 class Landscape implements Picture

@@ -16,3 +16,4 @@ $emitter->emit('new-user', 'admin');
 $emitter->emit('new-user', 'user');
 $emitter->emit('new-comment', 'user', 'Nice !');
 $emitter->emit('new-comment', 'admin', 'Thanks !');
+//

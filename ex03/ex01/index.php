@@ -1,13 +1,18 @@
 <?php
 include_once('FoodFactory.php');
+include_once('Food.php');
+include_once('FoodChef.php');
+
+
+
 
 $woodenFactory = new AsianFoodFactory();
 
 $door = $woodenFactory->makeFood();
 $expert = $woodenFactory->makeExpert();
 
-$door->getDescription(); 
-$expert->getDescription();
+$asianFood->getDescription(); 
+$asianChef->getDescription();
 
 // Idem pour le Factory de porte en fer
 $ironFactory = new FrenchFoodFactory();

@@ -36,5 +36,5 @@ La sortie que vous devez obtenir est la suivante:
 New user: admin
 New user: user
 User: user commented: Nice !
-User: admin commented: Thanks !
+User: admin commented: Thanks !0
 ```
